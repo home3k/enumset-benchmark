@@ -10,9 +10,9 @@ import java.util.Set;
  */
 public class BenchMark {
 
-    static final int TINY = 1;
+    public static final int TINY = 1;
 
-    static final int LARGE = 2;
+    public static final int LARGE = 2;
 
     static final int LOOP_TINY = 1000000;
 

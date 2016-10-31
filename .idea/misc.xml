@@ -36,6 +36,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/benchmark/pom.xml" />
+        <option value="$PROJECT_DIR$/jmh-benchmark/pom.xml" />
       </list>
     </option>
   </component>

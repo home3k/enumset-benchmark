@@ -24,7 +24,11 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="enumset-benchmark" />
+        <module name="jmh-benchmark" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jmh-benchmark" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>

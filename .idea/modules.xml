@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/benchmark/enumset-benchmark.iml" filepath="$PROJECT_DIR$/benchmark/enumset-benchmark.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/enumset-benchmark-1.iml" filepath="$PROJECT_DIR$/.idea/enumset-benchmark-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmh-benchmark/jmh-benchmark.iml" filepath="$PROJECT_DIR$/jmh-benchmark/jmh-benchmark.iml" />
     </modules>
   </component>
 </project>
